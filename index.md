@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Nishant Kumar
 
 You can use the [editor on GitHub](https://github.com/amazingcosmos1/Nishant-Kumar/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
