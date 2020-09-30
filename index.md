@@ -1,8 +1,8 @@
 ## Nishant Kumar
 
-You can use the [editor on GitHub](https://github.com/amazingcosmos1/Nishant-Kumar/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I am passionate about Machine Learning and Data Science. I love to play with data and create whatever can come to use. I am Seeking to secure a responsible
+career opportunity to fully utilize my skills, while making a significant contribution to the success of the company.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
