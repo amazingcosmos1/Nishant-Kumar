@@ -1,4 +1,4 @@
-## Nishant Kumar
+# Nishant Kumar
 
 I am passionate about Machine Learning and Data Science. I love to play with data and create whatever can come to use. I am Seeking to secure a responsible
 career opportunity to fully utilize my skills, while making a significant contribution to the success of the company.
