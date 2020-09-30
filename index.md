@@ -6,7 +6,7 @@ career opportunity to fully utilize my skills, while making a significant contri
 
 ## Education
 
-### Bachelor of Technology (CSE)
+### * Bachelor of Technology (CSE)
 Kurukshetra University
 
 ```markdown
