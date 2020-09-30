@@ -4,9 +4,10 @@ I am passionate about Machine Learning and Data Science. I love to play with dat
 career opportunity to fully utilize my skills, while making a significant contribution to the success of the company.
 
 
-### Markdown
+## Education
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+###Bachelor of Technology (CSE)
+Kurukshetra University
 
 ```markdown
 Syntax highlighted code block
