@@ -1,17 +1,25 @@
-# Nishant Kumar
 
-I am passionate about Machine Learning and Data Science. I love to play with data and create whatever can come to use. I am Seeking to secure a responsible
-career opportunity to fully utilize my skills, while making a significant contribution to the success of the company.
+<p align="right">
+  <a href='https://drive.google.com/file/d/1YEwJfKL7J2eJtwutnera2K2MTUZF44t7/view?usp=sharing'>Resume</a>
+  <img width="20" height="20" src="Logo(TB).png">
+</p>
+
+# <b>Nishant Kumar</b><font size=1>(Computer Science Engineer)</font>
+
+<b>I am passionate about Machine Learning and Data Science. I love to play with data and create for benefit. I am Seeking to secure a responsible career opportunity to fully utilize my skills, while making a significant contribution to the success of the company.</b>
 
 
-## Education
+## Education:
 
 ###  Bachelor of Technology (CSE)
-Kurukshetra University
+Kurukshetra University *(2019)*
+
+
 ### Intermediate (PCM)
-Army Public School
+Army Public School *(2015)*
+
 ### High School
-Army Public School
+Army Public School *(2013)*
 
 ```markdown
 Syntax highlighted code block
