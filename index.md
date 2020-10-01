@@ -8,9 +8,10 @@ career opportunity to fully utilize my skills, while making a significant contri
 
 ###  Bachelor of Technology (CSE)
 Kurukshetra University
->12th (PCM)
+### Intermediate (PCM)
 Army Public School
-
+### High School
+Army Public School
 
 ```markdown
 Syntax highlighted code block
