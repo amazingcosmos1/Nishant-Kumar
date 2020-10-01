@@ -11,6 +11,8 @@
 
 ## Education:
 
+---
+
 ###  Bachelor of Technology (CSE)
 Kurukshetra University *(2019)*
 
