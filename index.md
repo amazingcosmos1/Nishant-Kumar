@@ -6,7 +6,7 @@
 
 # <b>Nishant Kumar</b><font size=1>(Computer Science Engineer)</font>
 
-<b>I am passionate about Machine Learning and Data Science. I love to play with data and create for benefit. I am Seeking to secure a responsible career opportunity to fully utilize my skills, while making a significant contribution to the success of the company.</b>
+<b>I am passionate about Machine Learning and Data Science. I love to play with data and create for benefit. Seeking to secure a responsible career opportunity to fully utilize my skills, while making a significant contribution to the success of the company.</b>
 
 
 ## Education:
