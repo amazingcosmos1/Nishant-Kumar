@@ -1,6 +1,6 @@
 
 <p align="right">
-  <a href='https://drive.google.com/file/d/1YEwJfKL7J2eJtwutnera2K2MTUZF44t7/view?usp=sharing'>Resume</a>
+  <a href='https://drive.google.com/file/d/1YEwJfKL7J2eJtwutnera2K2MTUZF44t7/view?usp=sharing'><b><u>Resume</u></b></a>
   <img width="20" height="20" src="Logo(TB).png">
 </p>
 
